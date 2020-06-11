@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1587575539 source:c:\users\andyt\documents\codeblocks\brute\bruteforce\main.cpp
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<sstream>
+
+1587358617 
+
+1586146516 c:\users\andyt\documents\codeblocks\brute\bruteforce\libverifphras.h
+
+1587358617 source:/media/thierry/C428102028101450/Users/andyt/Documents/codeblocks/brute/bruteforce/main.cpp
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<sstream>
+
